@@ -24,3 +24,4 @@ final = sp * sa * sb * sc
 num_sqrt = final ** 0.5
 
 print(num_sqrt)
+input()
